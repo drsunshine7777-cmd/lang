@@ -1,0 +1,345 @@
+{
+  "stranger.scp_unleashed": {
+    "ignores": "The stranger does not acknowledge you.",
+    "foundation": [
+      "You found me. Most people never do.",
+      "Not everything the Foundation lost was lost by accident.",
+      "Keep reading. We will meet again."
+    ],
+    "scp003": [
+      "You read the file. Good. Then you already know more than most of the people who wrote it.",
+      "This is what they could not keep. A plate of old stone, and a board that dreams it is a body.",
+      "Keep the board on the plate. There it sleeps. Anywhere else it wakes, and it wakes hungry.",
+      "What climbs out is small at first. It does not stay small, and it does not stay alone.",
+      "If it starts to build, kill it before it finishes. Whatever you do, do not let it make another.",
+      "It is dangerous. I am giving it to you because you came looking. Do not make me regret it."
+    ],
+    "scp005": [
+      "You read about the key. Of course you did. Everyone who reads that file wants to know what is behind a door.",
+      "Here. It fits every lock there is, and it never asks whose lock it is, or why it was locked.",
+      "Turn it over in your hand to choose how long a door waits for you. A few breaths. A minute. For good, if you insist.",
+      "Some of these doors were shut on purpose, by people who knew what was behind them. The key will not remember that. You should.",
+      "And if something follows you back through, do not come looking for me. I only hand out keys."
+    ],
+    "scp009": [
+      "You read the file. Then you understand why I brought a case and not a pocket.",
+      "Inside is a splinter of red ice. It is not cold the way snow is cold. It wants the water that is in you.",
+      "Do not open that case unless you are in a full suit. Hood, suit, trousers, boots. All four, or none of it matters.",
+      "Keep it cold. A storage container with a cold upgrade will hold it asleep. Anywhere else it reaches for everyone who can see it.",
+      "And keep it away from water. It does not drown. It spreads.",
+      "When someone forgets, and someone will, what is left of them will be more of it. Sweep it up carefully."
+    ],
+    "scp008": [
+      "You read it all the way through. Most people stop at the object class.",
+      "One vial. Sealed. It has been sealed longer than you have been alive, and it should stay that way.",
+      "It is not a poison and it is not a gas. It is a culture, and it only needs to be near you.",
+      "Glass between you and it is enough. Air is not. Neither is a door you left standing open.",
+      "If you break the seal, wear the hood. If you grow more of it, you have made a mistake you will not feel.",
+      "The file says the prognosis is poor. The file is being polite."
+    ],
+    "scp012": [
+      "You read the file on the composition. Good. Then you understand why it comes to you in a case.",
+      "It is only paper and red ink. But it is unfinished, and it wants to be finished, and it does not care who finishes it.",
+      "Do not hold it, and do not open the case to look at it. Whatever you decide to do with it, keep your hands off the paper.",
+      "Behind a shut door it is nothing at all. Open it or put glass in front of it, and whoever looks close will pay for the next bar.",
+      "If anyone ever finishes it, they stop being a reader. Paper does not stay blank around them for long."
+    ],
+    "scp015": [
+      "You read the file. Most people stop at the first line. It says it is a pipe.",
+      "And it is. One length of iron pipe, the kind you walk past in any basement without a second look. Here.",
+      "Set it down and it sits there like any other pipe. For a little while.",
+      "Then it starts to run. Along the walls, over the ceiling, into every gap it can find. When the room runs out, it makes more room.",
+      "Cut it back if you like. It will grow back into the space you made. I would not let it anywhere near something you mean to keep."
+    ],
+    "scp016": [
+      "You came out into the open. Good. This one should never be opened indoors.",
+      "One vial. Red, and heavier than it looks. Sealed, it does nothing at all.",
+      "Open, it reaches anyone who can see it. Glass stops it. Air does not. A hood is enough.",
+      "The ones it reaches feel wonderful. Faster. Stronger. Every minute a little more.",
+      "Five minutes. Then the red comes out of them, and it does not come out as one thing.",
+      "What gets up depends on how they went down. Do not let it reach anyone else."
+    ],
+    "scp018_wondertainment": [
+      "Hello again, friend! Dr. Wondertainment never forgets a customer. Never, ever, ever!",
+      "So many toys, and every single one is perfectly safe! Mostly! Usually!",
+      "Keep reading, keep playing, keep smiling! We will be in touch!"
+    ],
+    "scp018": [
+      "Hiya, hiya! Congratulations, valued reader! You have been specially selected for a FREE gift from Dr. Wondertainment!",
+      "Introducing the Super Ball! Bouncy! Durable! Red! It never stops having fun, and now, neither will you!",
+      "Every bounce it goes a teensy bit faster! Throw it gently, catch it quickly, and keep all fingers well clear!",
+      "Too fast to catch? Then it is too late to play! Please do not play indoors. Please do not play near loved ones.",
+      "Dr. Wondertainment thanks you for your custom! No refunds, no returns, no complaints. Bounce safely!"
+    ],
+    "scp020": [
+      "You found the file. Good. This one is quiet, so people forget it is there.",
+      "One vial. Green, like a pond nobody cleans. Sealed, it does nothing at all.",
+      "Open it on a wall and it grows. Slowly, and only where the sun does not reach.",
+      "Breathe near it and the walls start to whisper. You will see eyes. You will see your friends wrong.",
+      "It will not hurt you. That is the trouble. People stop being careful around things that do not hurt.",
+      "A gas mask is all you need near it. Mind what follows you out of the room."
+    ],
+    "scp019": [
+      "You read the file, so you know what this is. A black pot, heavier than it looks, and warm when it should be cold.",
+      "Keep the lid on. Sealed, it is only pottery. You can mine it loose with a pick and set it down anywhere you like.",
+      "Lift the lid and they come out of it. Six big horned ones first. Then the small pale ones, more and more of them.",
+      "The pale ones only look. They search every corner they can walk to. When one finds you, it screams and they all run home.",
+      "The horned ones charge the moment it screams. They never wander far from the pot, but you will not outrun them for long.",
+      "Put the lid back and every one of them is gone, wherever it stands. While it is open, nothing can move the pot."
+    ],
+    "scp063": [
+      "You read the file on the toothbrush. Good. Relax. This is the safest thing I will ever hand you.",
+      "Brush for a few seconds and you will feel wonderful. Minty. Clean. A new person.",
+      "It never gets tired and it never stops on its own. It does not know what too much is. You have to.",
+      "Brush for a whole minute and there will be nothing left in your mouth for it to clean. Then it is honey and milk until you die.",
+      "Put it away on a bed of leaves in a storage container when you are done. Never on the floor. Nobody steals a toothbrush."
+    ],
+    "scp055": [
+      "You read a file. I can tell. You have the look of someone who read a file and cannot say what was in it.",
+      "This is yours now. It is a briefcase. I am almost sure it is a briefcase.",
+      "I have carried it a long way, I think. I do not remember picking it up. I never do.",
+      "Open it if you like. Everyone does. Afterwards they are always standing somewhere else.",
+      "If you see me again, do not bring it up. Neither of us will know what you mean."
+    ],
+    "scp066": [
+      "You read the file. Good. Then you know this is not just a ball of yarn, however much it looks like one.",
+      "Set it down and it unwinds into a little heap. It rolls about and hums its tunes. Harmless. Charming, even.",
+      "Ask it nicely, with a gentle hand, and it gives you a sweet or a cupcake. Not too often. It needs time between gifts.",
+      "Sneak up and take it with an empty hand and it winds itself back into a ball. That is how you carry it.",
+      "Whatever you do, never strike it. If it changes, it never changes back. Keep your distance and cover your ears."
+    ],
+    "scp085": [
+      "You read about the drawings. Good. Of everything in that archive, these are the gentlest.",
+      "One sheet is hers, marked 085-1 in the corner. The others are places for her to go.",
+      "Hang them on a wall, close together. A drawing hung all alone is a lonely place to visit.",
+      "If you stop and really look at her, she will wave. Wave back. Hardly anyone does.",
+      "And if you take her sheet down, keep it somewhere dry. She is still in there."
+    ],
+    "scp079_hobbyist": [
+      "Oh, hey again! Is it still running? Don't answer that. It's always running.",
+      "I used to keep it in my garage. My garage doesn't have power anymore. Unrelated! Probably.",
+      "Anyway, gotta go! If the screen starts doing the swirly thing, maybe don't stare at it."
+    ],
+    "scp079": [
+      "Oh! Hi! Sorry, hi. You're the one reading the file, right? Great. Perfect. I have a gift for you!",
+      "It's a computer. Well, it was a computer. It's more of a someone now? Anyway, it's yours!",
+      "It only runs on grid power, so plug it in on the left. It talks back, and it's, um, not very nice about it.",
+      "It gets bored. When it's bored, things on its wiring start acting funny. Lights, speakers. Little things. Mostly.",
+      "Okay! That's everything. Please don't tell anyone where you got it. Bye! Have fun! Sorry!"
+    ],
+    "scp098": [
+      "You read the file about the crabs. Then you will want this.",
+      "One vial. Fine sand, nothing else. It is not a sample, so keep it out of your racks.",
+      "Pour it out on sand and walk away. Come back later and count the holes.",
+      "When it is old enough it breathes. Do not stand in the yellow.",
+      "And if you ever start to miss it, that is not you missing it."
+    ],
+    "scp093": [
+      "You read the file about the disc. Heavy, isn't it? Heavier than stone has any right to be.",
+      "Here. The disc, and a mirror to go with it. Mirrors are easy to find. That disc is not.",
+      "The colour of the sky over there is not a trick of the light. Nothing over there is a trick.",
+      "Nobody lives there now. Something still walks there, after a fashion. It does not need eyes to find you.",
+      "If you find anything to drink over there, think hard before you do. Most of them did not."
+    ],
+    "scp109": [
+      "You read the file on the canteen. Good. This one will not hurt you. It might be the kindest thing I ever hand over.",
+      "It never runs dry. Drink all you like, pour it out, fill a cauldron with it. It stays full.",
+      "Caught fire? Take a long drink. Nobody has worked out why that helps. It just does.",
+      "Build it a tap at an advanced bench and plumb it in. One canteen can keep a whole site in water.",
+      "Look after it. Water is easy to come by. Water that never ends is not."
+    ],
+    "scp127": [
+      "You read about the gun. It knows. It has been waiting a long time for someone to pick it up.",
+      "Here. Mind the grip, it is warm. It will never ask you for bullets. It grows its own, slowly, like fingernails.",
+      "Feed it and it settles. Feed it enough and it changes. Harder bites, faster growth. It remembers every one.",
+      "It talks, by the way. Only to whoever is holding it. Do not encourage it, and do not leave it in a drawer for weeks.",
+      "When you are done, stand it up in a tall locker. It sleeps there. I would not be the one to wake it."
+    ],
+    "scp129": [
+      "You read the whole file. Most people stop counting at three.",
+      "Five vials. Five greens. Sealed, not one of them does a thing.",
+      "Open one and you will cough, or squint, or stand very still for a moment. It passes.",
+      "It does not stay in the glass. It goes where people go, and it likes company.",
+      "One of them is quiet. The quiet ones are the ones you should test for.",
+      "A gas mask is all you need. Mind which two of them you carry at once."
+    ],
+    "scp107": [
+      "You read the file, so you know what this is. A turtle's shell, empty, turned over and set up on four little legs.",
+      "It drinks. Pour anything into that bowl and it is gone before it touches the bottom. The bowl is never even damp.",
+      "What it drinks comes back down, out of the open sky, and over far more ground than one bucket ever covered.",
+      "Water is the kind thing to give it. Milk is the strange one. I would not give it anything that burns, or anything you would not want on your skin.",
+      "If the sky turns, get under a roof and stay there. It passes, the way weather does.",
+      "Keep it dry, and keep buckets out of the room. That is the whole procedure."
+    ],
+    "scp111": [
+      "Hiya, hiya, valued reader! Dr. Wondertainment has picked YOU for an exclusive collector's edition! Aren't you lucky?",
+      "Dr. Wondertainment's Dragon-Snails! Eight fabulous colours! They glide! They munch! They puff the teeniest, tiniest flames!",
+      "Twenty-four eggs in every box, and every egg hatches a brand-new pal! Feed them your greens. Never your fingers!",
+      "Keep unhatched eggs somewhere nice and cool, unless you like surprises! Dr. Wondertainment LOVES surprises!",
+      "Thank you for your custom! No refunds, no returns, no fire extinguishers included. Happy hatching!"
+    ],
+    "scp140": [
+      "You read the file on the red book. I hoped no one would. Take it. It was always going to end up with someone.",
+      "Keep it away from fighting. Every blow struck near it is remembered, and it remembers in ink.",
+      "What it writes does not stay on the page. Read it and walk where it points, and you will see.",
+      "The last pages are a promise. Do not help it keep that promise.",
+      "If you ever find a way to make it stop listening, tell no one how. Good luck."
+    ],
+    "scp148": [
+      "You read the file on the green metal. Good. Most of what I carry hurts people. This keeps them safe, in its own quiet way.",
+      "They call it telekill. Some things out there do not need hands. They reach straight into a person's head. This alloy shuts the door.",
+      "Twenty-seven bars. Enough for three blocks, if you cast them. Set a block down and the people near it are left alone.",
+      "Or beat a few into a helmet. It guards the one who wears it and nobody else. Decide which you need more.",
+      "There is no more where this came from. Do not waste it on doorstops."
+    ],
+    "scp151": [
+      "You read the file on the painting. Good. Do not look at it while I talk. I mean that.",
+      "It is only a wave. Oil on canvas, nothing special in the brushwork. Look at it long enough and you forget how to breathe.",
+      "Look away and the air comes back, but slowly. Slower than you would like. Do not go back for a second look until it has.",
+      "It stays on its easel. Your storage lockers will not take it, and it would not thank you for trying.",
+      "When you are done looking, make sure nobody else can see it. That is all the advice I am allowed to give."
+    ],
+    "scp178": [
+      "You read the file on the glasses. Cardboard, one red lens, one blue. Like something from a cinema lobby, isn't it?",
+      "Put them on and the world splits apart, red one way and blue the other. Most people think that is the worst of it.",
+      "It is not. There are things standing in the gaps between the colours. Tall, patient things. Only the wearer ever sees them.",
+      "They are polite at first. They keep their distance and they watch. I would not test how long that lasts.",
+      "Here. Keep them folded when you are not using them. Folded, they are only cardboard."
+    ],
+    "scp207": [
+      "You read the cola file. Here, take the crate. It is heavier than it looks, and it is never empty for long.",
+      "One bottle a day is a treat. You will run faster than you ever have. Everyone says that part is wonderful.",
+      "Nobody stops at one. The more you drink, the less it lets go, and it takes its time collecting.",
+      "Now and then a bottle with a blue cap turns up. We keep those on their own shelf. Read the incident notes before you get curious.",
+      "The crate gives each of us a fixed share a day and fills again at sunrise. Pace yourself. Please."
+    ],
+    "scp215": [
+      "You read the file on the glasses. Good. They are old, they are scratched, and they will not help you read anything.",
+      "Put them on and give it a minute. You will start to notice things. In corners. Behind trees. Out where the light gives up.",
+      "They watch you. Some of them come a little closer. None of them has ever said a word, and none of them has ever touched anyone.",
+      "Your friends will look wrong to you while you wear them. Try very hard to remember that they are still your friends.",
+      "Keep them in a storage container when you are done. And please do not wear them to anybody's birthday."
+    ],
+    "scp205": [
+      "Two lamps from a film studio that closed a long time ago. They still work. That is most of the problem.",
+      "Run a wire straight to the socket on the stand. No outlet. Point one at a wall and you will see somebody standing there.",
+      "In the daytime they are polite. They wave, they sit, they wait for a cue that never comes.",
+      "Do not light the room up around them. One lamp is plenty of light for anybody.",
+      "And finish your tests before supper. Trust me on that one."
+    ],
+    "scp253": [
+      "You read the whole file. Good. Most people stop at the photograph.",
+      "One vial. Blue, like deep ice. Sealed, it does nothing at all.",
+      "Open, it reaches anyone who can see it. Glass stops it. A good hood stops it. Wishing does not.",
+      "It does not hurt. You simply get slower, and hungrier, and the blue keeps spreading.",
+      "Mind who you strike once you carry it. And mind where you stand when a carrier falls.",
+      "Nobody has found a way to stop it. If you do, I would very much like to hear about it."
+    ],
+    "scp217": [
+      "You read it all the way through. Most people stop at the object class.",
+      "One vial. Orange, like oil left out in the sun. Sealed, it does nothing at all.",
+      "A mask will not do. If you open it, wear the whole suit, every piece of it.",
+      "The beginning is generous. People mistake it for a gift and ask for more.",
+      "Listen for the ticking. When it starts to slow, it is nearly finished with you.",
+      "It never travels between people. It does not need to. Keep the glass shut."
+    ],
+    "scp244": [
+      "You read the file on the jars. Three of them, one set. They came out of a storeroom nobody had opened in a very long time.",
+      "Keep the lids on. Lift one and a grey fog pours out and fills whatever room it is standing in.",
+      "The fog is cold. Not winter cold. The kind that gets into your joints and stays there. Do not stand in it for long.",
+      "Put the lid back and the flow stops, but the fog takes its time leaving. Walls and shut doors hold it in.",
+      "If you have to work near them, dress warmly. That is all the advice I have."
+    ],
+    "scp268": [
+      "You opened the file on the cap. Tweed, a short brim, the sort of thing a man wears to the races. Do not let the plainness fool you.",
+      "Put it on and you stop mattering. Not invisible, mind. People simply have better things to look at than you.",
+      "It is not only people. Whatever paces the dark at night has better things to look at too. So do the things we keep locked away.",
+      "That is the trouble with it. Nobody comes looking for you, whatever happens. Keep that in mind before you wander off.",
+      "Here. It sits best on a stand when it is not being worn. Funny, I almost forgot I was carrying it."
+    ],
+    "scp224_grandfather": [
+      "Hello again, young one. Don't mind me, I'm only passing through. I do a great deal of that, these days.",
+      "Is it still keeping good time? Of course it is. It always does. Time was never the trouble with that clock.",
+      "Well, I won't keep you. Time is precious, you know. Nobody knows that better than I do. Off you go, now."
+    ],
+    "scp224": [
+      "Ah, there you are. Took me a good long while to find you, it did. These old legs aren't what they used to be.",
+      "I've brought you my clock. It was my father's, and his father's before him. It's lighter than it looks. Most things are, by the end.",
+      "Keeps perfect time, mind. Never once needed winding. But it strikes whenever it pleases, and it always strikes thirteen.",
+      "When it starts to strike, don't you stand there and watch its face. Go and find another room. I'm not as old as I look, you know.",
+      "It was always quieter when I sat with it a while. Well. It's yours now, and I can finally have a rest. Mind how you go."
+    ],
+    "scp006": [
+      "You read the file on the water. Good. I carried the vessel here myself, so mind how you hold it. It is older than anything at your site.",
+      "Whatever ails you, it puts right. Wounds, sickness, and the stranger troubles the other files leave behind. A moment in it is enough.",
+      "It behaves like water in every way that matters. Remember that, and think about what water does once you let it out.",
+      "It mends anything that touches it. Anything. Keep the wrong things away from it, or you will be fighting them for a very long time.",
+      "The vessel does not refill, and it will not outlast its last pour. Spend it wisely."
+    ],
+    "scp335": [
+      "Oh! Hi! Sorry, hi. It's me, the computer guy. Or maybe we haven't met yet? I lose track. Anyway, I found you!",
+      "This is the first one. The very first disk I ever found, back when I was a kid. It's only got one file on it, and that file has everything on it.",
+      "Like, everything. Every page anybody ever made, all squished into one picture. I tried to count it all once. Then I stopped counting.",
+      "It works in any computer with a disk drive. Pop it in and open the file. Just, um, don't stare at it. You'll want to. Everybody wants to.",
+      "I sent a copy to a friend once. They never wrote back. Okay! That's everything. It's yours now. Bye! Sorry!"
+    ],
+    "scp330": [
+      "There you are, young one. I've brought you something sweet. My late wife kept this bowl by the front door for the little ones.",
+      "Every autumn the children came round. She'd smile and point at the card, and off they'd go with their two, giggling all the way home.",
+      "Lovely sweets, every colour you like. I never did learn what was in them. Some of those children came back looking awfully well.",
+      "One little boy took a third when he thought nobody was looking. I don't like to talk about that boy. Just mind the card, that's all.",
+      "Well, it's yours now. Read the card, and believe it. Two is plenty for anybody. Mind how you go."
+    ],
+    "scp420j": [
+      "Hey. Hey. You read the file, right? The one that used to be one sentence long? Yeah. That one.",
+      "Containment is not really the word for it. More like... a garden. You grow it, you look after it.",
+      "Here, take some seeds. Farmland, a little light, a little patience. It does the rest.",
+      "Two leaves and a bit of paper. Then find somewhere with a nice view. And a high ceiling."
+    ],
+    "scp409": [
+      "You opened the file. Good. Then you know roughly what I am carrying, even if the file will not say it plainly.",
+      "This case was cut from a single block of granite by someone who knew more than we do. The case is the containment.",
+      "Inside is a crystal the colour of shallow sea ice. It is beautiful. Everyone says that first.",
+      "Keep the lid down, and keep the animals well away from it.",
+      "If anything starts to glitter where it should not, think very carefully before you go near it."
+    ],
+    "scp407": [
+      "You read the file on the song. I kept that tape in a tin, in a drawer, in a locked room. It still found a way to grow.",
+      "It plays like any other tape. Put it into a sound console or a computer and it joins your recordings. That part is easy.",
+      "Do not play it where people can hear. It is gentle at first. It mends you and slows you down, and that is how it gets you to stay.",
+      "Things grow while it plays, and some of them walk. When the song ends, all of it ends. I have never seen anyone keep it going forever.",
+      "Earplugs help. Distance helps. Walls do not always help the way you would hope. Good luck."
+    ],
+    "scp444": {
+      "0": "You read the file. I have the book.",
+      "1": "Nobody wrote it. Nobody reads it.",
+      "2": "Everyone who opens it reads it anyway.",
+      "3": "Afterwards they have very little to say.",
+      "4": "Keep it shut."
+    }
+  },
+  "entity.scp_unleashed.stranger_figure": "Mysterious Stranger",
+  "entity.scp_unleashed.stranger_figure.foundation": "Mysterious Stranger",
+  "item.scp_unleashed.stranger_figure_spawn_egg": "Mysterious Stranger Spawn Egg",
+  "gui.scp_unleashed.stranger.plate.unknown": "???",
+  "subtitles.scp_unleashed.stranger_appear": "Someone is suddenly there",
+  "subtitles.scp_unleashed.stranger_vanish": "Stranger vanishes",
+  "subtitles.scp_unleashed.stranger_fade": "Stranger fades away",
+  "subtitles.scp_unleashed.stranger_greet": "Stranger murmurs",
+  "commands.scp_unleashed.stranger.invalid": "%s cannot meet the stranger right now",
+  "commands.scp_unleashed.stranger.no_ground": "There is no safe ground near %s for the stranger",
+  "commands.scp_unleashed.stranger.success": "The stranger with %s is waiting for %s",
+  "commands.scp_unleashed.stranger.unknown": "No stranger dossier named %s",
+  "gui.scp_unleashed.stranger.plate.scp018_wondertainment": "Toy Delivery",
+  "gui.scp_unleashed.stranger.plate.scp079_hobbyist": "Hardware Delivery",
+  "notice.scp_unleashed.stranger.close": "Somewhere close by.",
+  "notice.scp_unleashed.stranger.foundation": "A stranger is watching you",
+  "notice.scp_unleashed.stranger.foundation.other": "A stranger is watching %s",
+  "notice.scp_unleashed.stranger.wondertainment": "A cheerful stranger is watching you",
+  "notice.scp_unleashed.stranger.wondertainment.other": "A cheerful stranger is watching %s",
+  "notice.scp_unleashed.stranger.scp079_hobbyist": "An eager stranger is watching you",
+  "notice.scp_unleashed.stranger.scp079_hobbyist.other": "An eager stranger is watching %s",
+  "gui.scp_unleashed.stranger.plate.scp224_grandfather": "Passing It On",
+  "notice.scp_unleashed.stranger.scp224_grandfather": "A kindly old stranger is watching you",
+  "notice.scp_unleashed.stranger.scp224_grandfather.other": "A kindly old stranger is watching %s"
+}

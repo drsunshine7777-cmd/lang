@@ -1,0 +1,102 @@
+{
+  "dossier.scp_unleashed.001": {
+    "designation": "SCP-001",
+    "title": "The Prototype",
+    "caption": "SCP-001 seen through the observation port, crouched over the cell floor.",
+    "item": "SCP-001",
+    "class": "Keter",
+    "page": [
+      {
+        "title": "Special Containment Procedures:",
+        "text": [
+          "SCP-001 is to be kept in a sealed cell no smaller than five metres to a side, built to the earliest drawings in the Archive. The drawings call for a lining that the Foundation also uses to keep a mind from being read. %rSpecifications withheld.%r",
+          "Personnel are not to come within three metres of SCP-001 for any reason, even while it is calm.",
+          "**Recovery teams are to be equipped as for a riot, not a hunt.**"
+        ]
+      },
+      {
+        "title": "Description:",
+        "text": [
+          "SCP-001 is a gaunt, hunched humanoid a little over two metres tall when upright. Its smooth grey skin is drawn tight over its ribs and spine, and its arms and legs are extremely long and jointed like an insect's. Its hands end in curved claws nearly as long as its forearms. It goes on all fours with its fingers folded under, its weight on the middle knuckles and the blades turned up out of the way.",
+          "Its head has no eyes, ears or nose. The lower half is a mouth, wide from ear to ear and set with long, uneven teeth. A thin red strand hangs from the mouth and ends in a pale blue sphere that gives off a faint light.",
+          "SCP-001 moves in short, sudden bursts and stops dead between them. Witnesses report that it does not always cross the space in between. It attacks any living thing it finds, people and animals alike."
+        ]
+      },
+      {
+        "title": "Addendum 001-1: Light",
+        "text": "Personnel facing SCP-001 have reported a bright flash from the sphere, followed by blindness and nausea lasting several seconds. Personnel who had turned away reported only a glare."
+      },
+      {
+        "title": "Addendum 001-2: Withdrawal",
+        "text": "When badly hurt, SCP-001 opens a seam of golden light and leaves through it. It has always come back, whole. %rEvery attempt to put it down has ended with it slipping through a seam.%r"
+      },
+      {
+        "title": "Addendum 001-3: Provenance",
+        "text": "SCP-001 has no recovery site. Its file surfaced in the Archive from a golden fragment, and the entity came through a seam soon after it was read. It is filed first because its design predates every other entry on record."
+      }
+    ]
+  },
+  "entity.scp_unleashed.scp001": "SCP-001",
+  "entity.scp_unleashed.scp001_portal": "Golden Seam",
+  "item.scp_unleashed.scp001_spawn_egg": "SCP-001 Spawn Egg",
+  "death.attack.scp_unleashed.scp001_claw": "%1$s was cut down by %2$s",
+  "death.attack.scp_unleashed.scp001_claw.item": "%1$s was cut down by %2$s",
+  "death.attack.scp_unleashed.scp001_claw.player": "%1$s was cut down by %2$s while fighting %3$s",
+  "message.scp_unleashed.scp001.slips": "It moves too fast for the field to close around it",
+  "archive.scp_unleashed.notes.scp001.0": "The Archive printed this file in gold ink. It holds no gold ink.",
+  "archive.scp_unleashed.notes.scp001.1": "Something is pressing on the other side of the gold.",
+  "commands.scp_unleashed.scp001.player": "Only a player can call it through.",
+  "commands.scp_unleashed.scp001.no_room": "There is no room nearby for it to come through.",
+  "commands.scp_unleashed.scp001.arrived": "SCP-001 came through a golden seam.",
+  "commands.scp_unleashed.scp001.flash": "Set off a flash with a radius of %s blocks.",
+  "commands.scp_unleashed.scp001.none": "There is no SCP-001 nearby.",
+  "commands.scp_unleashed.scp001.returns": "SCP-001 returns waiting in this dimension: %s",
+  "commands.scp_unleashed.scp001.status": "SCP-001: %s of %s health, hunting %s, %s",
+  "commands.scp_unleashed.scp001.status.nothing": "nothing",
+  "commands.scp_unleashed.scp001.status.locked": "dazed",
+  "commands.scp_unleashed.scp001.status.restrained": "held",
+  "commands.scp_unleashed.scp001.status.free": "free",
+  "config.jade.plugin_scp_unleashed.scp001_prototype": "SCP-001 State",
+  "jade.scp_unleashed.scp001.state": "State: %s",
+  "jade.scp_unleashed.scp001.state.hunting": "Hunting",
+  "jade.scp_unleashed.scp001.state.prowling": "Prowling",
+  "jade.scp_unleashed.scp001.state.dazed": "Dazed",
+  "jade.scp_unleashed.scp001.state.held": "Held",
+  "jei.scp_unleashed.info.scp001_spawn_egg.1": "SCP-001, the Prototype: a gaunt grey thing on long jointed limbs, with blade claws and a mouth full of fangs. A glowing orb hangs from its jaws. Keter-class.",
+  "jei.scp_unleashed.info.scp001_spawn_egg.2": "It hunts any living thing it can find. It moves in sudden bursts, it does not always cross the space between, and it leaves through a golden seam when badly hurt.",
+  "jei.scp_unleashed.info.scp001_spawn_egg.3": "It never spawns naturally. Its file comes from the Archive, and only from gold. Operators can use /scp_unleashed scp001 with arrive, flash, escape, status or returns.",
+  "subtitles.scp_unleashed.scp001_skitter": "Skittering",
+  "subtitles.scp_unleashed.scp001_chitter": "Low chittering",
+  "subtitles.scp_unleashed.scp001_hurt": "Pained chittering",
+  "subtitles.scp_unleashed.scp001_warp": "Glass rings out of nowhere",
+  "subtitles.scp_unleashed.scp001_flash_charge": "A rising whine",
+  "subtitles.scp_unleashed.scp001_flash_burst": "A blinding flash",
+  "subtitles.scp_unleashed.scp001_portal": "A golden seam tears open",
+  "subtitles.scp_unleashed.scp001_portal_close": "The golden seam closes",
+  "subtitles.scp_unleashed.scp001_slash": "Claws slash",
+  "subtitles.scp_unleashed.scp001_reel": "Something shrieks, dazed",
+  "subtitles.scp_unleashed.scp001_settle": "Something settles",
+  "subtitles.scp_unleashed.scp001_dissolve": "Something comes apart into light",
+  "subtitles.scp_unleashed.scp001_warp_tick": "A faint ring",
+  "subtitles.scp_unleashed.scp001_strain": "Something strains, rising",
+  "subtitles.scp_unleashed.scp001_strike": "A sudden crack",
+  "subtitles.scp_unleashed.scp001_lunge": "Something lunges",
+  "subtitles.scp_unleashed.scp001_knock": "Knuckles knock on the floor",
+  "subtitles.scp_unleashed.scp001_tap": "Something taps",
+  "subtitles.scp_unleashed.scp001_snap": "Something cracks",
+  "subtitles.scp_unleashed.scp001_click": "Rapid clicking",
+  "subtitles.scp_unleashed.scp001_voice_low": "A voice, far too low",
+  "subtitles.scp_unleashed.scp001_voice_high": "A voice, far too high",
+  "subtitles.scp_unleashed.scp001_breath": "Something breathes nearby",
+  "subtitles.scp_unleashed.scp001_drift": "A distant voice",
+  "entity.scp_unleashed.scp001_singularity": "Singularity",
+  "death.attack.scp_unleashed.scp001_singularity": "%1$s was swallowed by a point of darkness thrown by %2$s",
+  "death.attack.scp_unleashed.scp001_singularity.player": "%1$s was swallowed by a point of darkness while fighting %2$s",
+  "death.attack.scp_unleashed.scp001_singularity.item": "%1$s was swallowed by a point of darkness thrown by %2$s",
+  "subtitles.scp_unleashed.scp001_singularity_charge": "A deep pull gathers",
+  "subtitles.scp_unleashed.scp001_singularity_form": "A point of darkness folds open",
+  "subtitles.scp_unleashed.scp001_singularity_hum": "A low, circling hum",
+  "subtitles.scp_unleashed.scp001_singularity_launch": "Something hurls a dark point",
+  "subtitles.scp_unleashed.scp001_singularity_implode": "A point of darkness collapses",
+  "subtitles.scp_unleashed.scp001_singularity_fizzle": "A dark point fades"
+}
