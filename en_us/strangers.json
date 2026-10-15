@@ -316,6 +316,13 @@
       "2": "Everyone who opens it reads it anyway.",
       "3": "Afterwards they have very little to say.",
       "4": "Keep it shut."
+    },
+    "scp427": {
+      "0": "You opened the file. Then you already know this is not jewellery, whatever it looks like.",
+      "1": "Open it and it soothes you. Cuts close. Aches go quiet. People grow fond of it very quickly.",
+      "2": "That is the trouble. Everyone wants a little longer, and it keeps count even when you do not.",
+      "3": "Keep it shut in a locker. Do not wear it for comfort. Do not let anyone sit with it open.",
+      "4": "If someone says their heart is pounding against it, take it out of their hand. Do not wait."
     }
   },
   "entity.scp_unleashed.stranger_figure": "Mysterious Stranger",
