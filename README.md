@@ -77,8 +77,3 @@ You don't need to build the mod to test a translation:
 ## Keeping up with English
 
 When the English text changes, `git log -p -- en_us/` shows exactly which lines were added or reworded, so you can see what needs updating.
-
-## Style
-
-- Keep the tone of the original: clinical Foundation paperwork in dossiers and an unsettling, quiet voice for the strangers.
-- Translate what is there and don't add hints or explanations the English leaves out. Some mechanics are meant to be discovered by playing.
