@@ -22,12 +22,12 @@
       "And if something follows you back through, do not come looking for me. I only hand out keys."
     ],
     "scp009": [
-      "You read the file. Then you understand why I brought a case and not a pocket.",
-      "Inside is a splinter of red ice. It is not cold the way snow is cold. It wants the water that is in you.",
-      "Do not open that case unless you are in a full suit. Hood, suit, trousers, boots. All four, or none of it matters.",
-      "Keep it cold. A storage container with a cold upgrade will hold it asleep. Anywhere else it reaches for everyone who can see it.",
-      "And keep it away from water. It does not drown. It spreads.",
-      "When someone forgets, and someone will, what is left of them will be more of it. Sweep it up carefully."
+      "You read the file. Then you understand why I brought a case.",
+      "Inside is a splinter of red ice. It is colder than any blizzard.",
+      "Do not open that case unless you are in a full hazmat suit. Hood, suit, trousers, boots. All four, or none of it matters.",
+      "Keep it cold. A storage container with a cold upgrade will hold it. Anywhere else and it will doom everyone who can see it.",
+      "And keep it away from the water. It will spread. ",
+      "If anyone touches it, what is left of them will be more of it. Sweep it up carefully."
     ],
     "scp008": [
       "You read it all the way through. Most people stop at the object class.",
@@ -39,10 +39,10 @@
     ],
     "scp012": [
       "You read the file on the composition. Good. Then you understand why it comes to you in a case.",
-      "It is only paper and red ink. But it is unfinished, and it wants to be finished, and it does not care who finishes it.",
-      "Do not hold it, and do not open the case to look at it. Whatever you decide to do with it, keep your hands off the paper.",
-      "Behind a shut door it is nothing at all. Open it or put glass in front of it, and whoever looks close will pay for the next bar.",
-      "If anyone ever finishes it, they stop being a reader. Paper does not stay blank around them for long."
+      "It is only paper and red ink. But it is unfinished, and it greatly desires to be finished.",
+      "Do not hold it, and do not open the case to look at it. Whatever you decide to do with it, keep it out of sight.",
+      "Behind a shut door it is harmless. If it is visible, whoever looks close will pay for the next bar.",
+      "Many have tried to finish it, and all have failed. The paper is stained with their futile efforts."
     ],
     "scp015": [
       "You read the file. Most people stop at the first line. It says it is a pipe.",
@@ -85,14 +85,13 @@
       "Lift the lid and they come out of it. Six big horned ones first. Then the small pale ones, more and more of them.",
       "The pale ones only look. They search every corner they can walk to. When one finds you, it screams and they all run home.",
       "The horned ones charge the moment it screams. They never wander far from the pot, but you will not outrun them for long.",
-      "Put the lid back and every one of them is gone, wherever it stands. While it is open, nothing can move the pot."
+      "Put the lid back and every one of them is gone. While it is open, nothing can move the pot."
     ],
     "scp063": [
       "You read the file on the toothbrush. Good. Relax. This is the safest thing I will ever hand you.",
       "Brush for a few seconds and you will feel wonderful. Minty. Clean. A new person.",
-      "It never gets tired and it never stops on its own. It does not know what too much is. You have to.",
       "Brush for a whole minute and there will be nothing left in your mouth for it to clean. Then it is honey and milk until you die.",
-      "Put it away on a bed of leaves in a storage container when you are done. Never on the floor. Nobody steals a toothbrush."
+      "Put it away on a bed of leaves in a storage container when you are done. Never on the floor."
     ],
     "scp055": [
       "You read a file. I can tell. You have the look of someone who read a file and cannot say what was in it.",
@@ -122,8 +121,8 @@
     ],
     "scp079": [
       "Oh! Hi! Sorry, hi. You're the one reading the file, right? Great. Perfect. I have a gift for you!",
-      "It's a computer. Well, it was a computer. It's more of a someone now? Anyway, it's yours!",
-      "It only runs on grid power, so plug it in on the left. It talks back, and it's, um, not very nice about it.",
+      "It's a computer. Well, it was a computer. It's more of a..person now? Anyway, it's yours!",
+      "It only runs on grid power, so plug it in on the left. It talks, but it's, um, not very nice.",
       "It gets bored. When it's bored, things on its wiring start acting funny. Lights, speakers. Little things. Mostly.",
       "Okay! That's everything. Please don't tell anyone where you got it. Bye! Have fun! Sorry!"
     ],
