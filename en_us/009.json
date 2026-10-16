@@ -12,17 +12,17 @@
           "SCP-009 is to be kept in a storage container fitted with a Cold Storage Upgrade. While refrigerated it is inert. It is never to leave cold storage except inside a sealed containment case.",
           "SCP-009 may be handled only by personnel wearing a full hazmat suit: hood, suit, trousers and boots. **No bare skin is to come into contact with SCP-009 or with any instance of SCP-009-1.**",
           "No liquid water is to be stored, piped or carried near the containment unit. Fragments recovered after an incident are to be sealed into a case or a refrigerated unit at once. Red ice formations are as dangerous as SCP-009 itself and are to be broken up only by suited personnel.",
-          "Exposed personnel and animals cannot be treated. They are to be led away from water and from other staff for the time remaining."
+          "Exposed personnel and animals cannot be treated. They are to be led away from water and from other staff until they are terminated."
         ]
       },
       {
         "title": "Description:",
         "text": [
-          "SCP-009 is a shard of translucent red crystal about 11 cm long, resembling amethyst in its habit. It feels cool in every environment tested, yet it never frosts over.",
-          "At any temperature above that of cold storage, SCP-009 acts on the water inside living bodies. An unprotected person or animal that touches it, or comes within roughly 10 m of it while it lies uncontained and in plain view, begins to freeze from within.",
+          "SCP-009 is a shard of translucent crystal about 11 cm long, resembling frozen water with a distinct red hue. It feels cool in every environment tested, yet it never frosts over.",
+          "At any temperature above that of cold storage, SCP-009 will affect the water inside of living bodies. An unprotected person or animal that touches it, or comes within roughly 10 m of it while it lies uncontained and in plain view, begins to freeze from within.",
           "Within about a minute the subject's movements slow and their vision fills with red. At the end of this period the body turns entirely to red crystal. A brittle statue is left standing in the subject's last posture, and small fragments, designated SCP-009-1, shear away from it. Smaller animals leave fewer fragments.",
           "SCP-009-1 shares every property of SCP-009, wherever it lies.",
-          "When SCP-009 or SCP-009-1 is thrown into liquid water, the object dissolves and the water around it crystallises into solid red ice. The reaction spreads only a few metres before it stops. The crystal affects the living exactly as SCP-009 does, and breaking it apart yields further SCP-009-1."
+          "When SCP-009 or SCP-009-1 makes contact with liquid water, the object dissolves and the water around it crystallises into solid red ice. The reaction spreads only a few metres before it stops. The crystal affects the living exactly as SCP-009 does, and breaking it apart yields further SCP-009-1."
         ]
       },
       {
@@ -44,7 +44,7 @@
   "item.scp_unleashed.scp009_fragment": "SCP-009-1 Fragment",
   "item.scp_unleashed.scp009_fragment.tooltip": "A splinter of SCP-009. It is still growing.",
   "item.scp_unleashed.scp009.touch": "Fatal to touch without a full hazmat suit",
-  "item.scp_unleashed.scp009.hazmat": "A full hazmat suit protects only its wearer",
+  "item.scp_unleashed.scp009.hazmat": "Only a full hazmat suit protects its wearer",
   "item.scp_unleashed.scp009.storage": "Safe only in a sealed case or a cold storage container",
   "item.scp_unleashed.scp009.uncontained": "Anywhere else it dooms every unprotected creature within %s blocks",
   "item.scp_unleashed.scp009.loose": "Just as deadly lying loose, carried or kept in a chest",
