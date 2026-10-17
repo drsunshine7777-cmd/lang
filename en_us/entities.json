@@ -82,5 +82,19 @@
   "entity.scp_unleashed.drop_pod": "Drop Pod",
   "entity.scp_unleashed.satellite_booster": "Satellite Booster",
   "entity.scp_unleashed.apocalyptic_rift": "Apocalyptic Rift",
-  "entity.scp_unleashed.grenade": "Grenade"
+  "entity.scp_unleashed.grenade": "Grenade",
+  "entity.scp_unleashed.mtf_operative": "MTF Operative",
+  "entity.scp_unleashed.mtf_helicopter": "MTF Transport Helicopter",
+  "dclass.scp_unleashed.role.none": "None",
+  "dclass.scp_unleashed.role.janitor": "Janitor",
+  "dclass.scp_unleashed.task.none": "None",
+  "dclass.scp_unleashed.task.eat_this": "Eat This",
+  "dclass.scp_unleashed.task.follow_me": "Follow Me",
+  "dclass.scp_unleashed.task.clean_area": "Clean Area",
+  "faction.scp_unleashed.serpents_hand": "The Serpent's Hand",
+  "faction.scp_unleashed.chaos_insurgency": "The Chaos Insurgency",
+  "entity.scp_unleashed.serpents_hand_agent": "Serpent's Hand Agent",
+  "entity.scp_unleashed.chaos_insurgent": "Chaos Insurgent",
+  "entity.scp_unleashed.serpents_hand_seal": "Serpent's Hand Seal",
+  "entity.scp_unleashed.chaos_helicopter": "Chaos Insurgency Helicopter"
 }

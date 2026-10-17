@@ -74,7 +74,7 @@
     "scp020": [
       "You found the file. Good. This one is quiet, so people forget it is there.",
       "One vial. Green, like a pond nobody cleans. Sealed, it does nothing at all.",
-      "Open it on a wall and it grows. Slowly, and only where the sun does not reach.",
+      "Open it on a wall and it soaks in. You will not see it again. It grows slowly, and only where the sun does not reach.",
       "Breathe near it and the walls start to whisper. You will see eyes. You will see your friends wrong.",
       "It will not hurt you. That is the trouble. People stop being careful around things that do not hurt.",
       "A gas mask is all you need near it. Mind what follows you out of the room."
@@ -323,6 +323,13 @@
       "2": "That is the trouble. Everyone wants a little longer, and it keeps count even when you do not.",
       "3": "Keep it shut in a locker. Do not wear it for comfort. Do not let anyone sit with it open.",
       "4": "If someone says their heart is pounding against it, take it out of their hand. Do not wait."
+    },
+    "scp458": {
+      "0": "You read the file. I brought the box. Mind your hands, it's warm. It's always warm.",
+      "1": "Lift the lid and have a look. I've never once seen anybody disappointed.",
+      "2": "Six slices at a time. Close the lid, lift it again, and the pizza is whole.",
+      "3": "Don't ask me what kind it is. I've never had a straight answer to that.",
+      "4": "Keep it somewhere cool and dry. It won't make any difference, but it keeps the paperwork tidy."
     }
   },
   "entity.scp_unleashed.stranger_figure": "Mysterious Stranger",

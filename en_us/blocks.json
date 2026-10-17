@@ -52,10 +52,10 @@
   "block.scp_unleashed.ultimate_transfer_block": "Ultimate Transfer Block",
   "block.scp_unleashed.transfer.tooltip": "Wires plug straight into any face. Everything wired to it is joined.",
   "block.scp_unleashed.breaker": "Breaker",
-  "block.scp_unleashed.breaker.tooltip": "Cuts the power between its LINE face and its other faces before the attached wires can burn out. Outputs redstone while tripped.",
+  "block.scp_unleashed.breaker.tooltip": "Trips open before the attached wires can burn out, cutting the power between all of its faces. Outputs redstone while tripped.",
   "block.scp_unleashed.breaker.reset": "Right-click to reset or trip it by hand",
   "block.scp_unleashed.power_cutoff": "Power Cutoff",
-  "block.scp_unleashed.power_cutoff.tooltip": "Cuts the power between its LINE face and its other faces while it receives redstone.",
+  "block.scp_unleashed.power_cutoff.tooltip": "Cuts the power between all of its faces while it receives redstone.",
   "block.scp_unleashed.switchgear.line": "While open, every face is cut off from the others",
   "block.scp_unleashed.switchgear.data": "Data still passes while it is open",
   "block.scp_unleashed.pipe_pressurizer": "Pipe Pressurizer",
@@ -1479,5 +1479,9 @@
   "block.scp_unleashed.ez_display_case.stack": "Stack them: the plinth, the shelves and the lit crown shape themselves",
   "block.scp_unleashed.ez_dummy_camera_dome": "Dummy Camera Dome",
   "block.scp_unleashed.ez_dummy_camera_dome.tooltip": "A smoked dome on a ceiling stem. A decoy, there is no camera inside.",
-  "block.scp_unleashed.ez_dummy_camera_dome.mount": "Place it under a ceiling"
+  "block.scp_unleashed.ez_dummy_camera_dome.mount": "Place it under a ceiling",
+  "block.scp_unleashed.patrol_node": "Patrol Node",
+  "block.scp_unleashed.patrol_node.tooltip": "A floor marker for guard patrol routes. Link it to a Patrol Manager.",
+  "block.scp_unleashed.patrol_manager": "Patrol Manager",
+  "block.scp_unleashed.patrol_manager.tooltip": "Plans a patrol route and its rules of engagement, then writes Patrol Orders."
 }

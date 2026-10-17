@@ -30,5 +30,13 @@
   "gamerule.scpDropAnomalies": "Drop anomalies on death",
   "gamerule.scpDropAnomalies.description": "When on and keepInventory is also on, players who die still drop every anomaly they carry, including sealed cases, occupied stasis pods and culture vials. Everything else stays in their inventory.",
   "config.scp_unleashed.warhead_effects": "Alpha Warhead effects",
-  "config.scp_unleashed.warhead_effects.tooltip": "Flashes, screen shake, the red alert overlay, the blast cloud, sirens and blast sounds of the Alpha Warhead. Turn off to skip them for you only. The countdown, announcements and the blast itself are unchanged."
+  "config.scp_unleashed.warhead_effects.tooltip": "Flashes, screen shake, the red alert overlay, the blast cloud, sirens and blast sounds of the Alpha Warhead. Turn off to skip them for you only. The countdown, announcements and the blast itself are unchanged.",
+  "gamerule.scpRedFingerDomains": "Z-0002: the red finger can open its domain",
+  "gamerule.scpRedFingerDomains.description": "When off, the red finger stays inert in every hand.",
+  "gamerule.scpZ0003PlayerTimeout": "Z-0003: players break free after 30 seconds",
+  "gamerule.scpZ0003PlayerTimeout.description": "When on, players held in stone by Z-0003 break free on their own after 30 seconds. D-Class, MTF operatives and villagers stay held.",
+  "gamerule.scpSerpentsHandRaids": "Serpent's Hand raids",
+  "gamerule.scpSerpentsHandRaids.description": "When on, the Serpent's Hand can raid the places where players live. Raids never happen on Peaceful.",
+  "gamerule.scpChaosInsurgencyRaids": "Chaos Insurgency raids",
+  "gamerule.scpChaosInsurgencyRaids.description": "When on, the Chaos Insurgency can raid the places where players live. Raids never happen on Peaceful."
 }

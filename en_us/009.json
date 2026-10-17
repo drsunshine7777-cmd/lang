@@ -55,7 +55,7 @@
   "death.attack.scp_unleashed.scp009_crystallized": "%1$s turned to red ice",
   "death.attack.scp_unleashed.scp009_crystallized.player": "%1$s turned to red ice whilst fighting %2$s",
   "message.scp_unleashed.scp009.doomed": "Red ice is spreading through your blood.",
-  "commands.scp_unleashed.scp009.exempt": "%s is exempt (creative, spectator, invulnerable or an armour stand)",
+  "commands.scp_unleashed.scp009.exempt": "%s is exempt (creative, spectator, invulnerable, an armour stand or immune)",
   "commands.scp_unleashed.scp009.doom.already": "%s is already doomed",
   "commands.scp_unleashed.scp009.doom.success": "%s is doomed and will turn to red ice in %s s",
   "commands.scp_unleashed.scp009.doom.failed": "%s could not be doomed",

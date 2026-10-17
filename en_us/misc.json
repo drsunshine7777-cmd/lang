@@ -1,0 +1,13 @@
+{
+  "mtf.scp_unleashed.tier.fireteam": "Epsilon-11 Fireteam",
+  "mtf.scp_unleashed.tier.patrol": "Epsilon-11 Patrol",
+  "mtf.scp_unleashed.tier.squad": "Epsilon-11 Squad",
+  "mtf.scp_unleashed.tier.strike_team": "Nu-7 Strike Team",
+  "mtf.scp_unleashed.tier.detachment": "Alpha-1 Detachment",
+  "mtf.scp_unleashed.role.sidearm": "Sidearm",
+  "mtf.scp_unleashed.role.pointman": "Breacher",
+  "mtf.scp_unleashed.role.rifleman": "Rifleman",
+  "mtf.scp_unleashed.role.marksman": "Marksman",
+  "mtf.scp_unleashed.role.leader": "Team Leader",
+  "mtf.scp_unleashed.role.bearer": "Specialist"
+}
