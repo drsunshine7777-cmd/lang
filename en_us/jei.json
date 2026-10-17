@@ -447,5 +447,13 @@
   "jei.scp_unleashed.info.patrol_orders.3": "Use blank orders on a guard, or sneak and use written orders, to take them off duty. Guards carry their own weapons, ammunition, keycards and armour.",
   "jei.scp_unleashed.info.serpents_hand_stasis_pod.1": "A stasis capsule carried by agents of the Serpent's Hand.",
   "jei.scp_unleashed.info.serpents_hand_stasis_pod.2": "A filled pod holds a living anomaly. Right-click a block to let it out.",
-  "jei.scp_unleashed.info.serpents_hand_stasis_pod.3": "The capsule breaks open when it is used."
+  "jei.scp_unleashed.info.serpents_hand_stasis_pod.3": "The capsule breaks open when it is used.",
+  "jei.scp_unleashed.info.micro_hid.1": "The Micro H.I.D. is a heavy tesla projector assembled at the Gun Bench. It fires one continuous electrical beam instead of single shots.",
+  "jei.scp_unleashed.info.micro_hid.2": "Hold use to spin it up. After %s seconds the coils discharge and the beam keeps firing for as long as you hold on. Let go and it winds down.",
+  "jei.scp_unleashed.info.micro_hid.3": "The beam deals %s damage %s times a second to every creature along its path and around the point it strikes, out to %s blocks. Solid blocks stop it and it never breaks terrain.",
+  "jei.scp_unleashed.info.micro_hid.4": "It runs on a stored charge. A full charge fires for about %s seconds, spinning up costs charge too, and an empty Micro H.I.D. only clicks.",
+  "jei.scp_unleashed.info.micro_hid.5": "It is heavy: you move slowly while it fires. Recharge it on a Micro Charging Platform.",
+  "jei.scp_unleashed.info.micro_charging_platform.1": "A powered dock for the Micro H.I.D.",
+  "jei.scp_unleashed.info.micro_charging_platform.2": "It draws %s SP/t from the power network while a docked Micro H.I.D. charges, and fills an empty one in about %s seconds. Wire it through an outlet on its back.",
+  "jei.scp_unleashed.info.micro_charging_platform.3": "Use a Micro H.I.D. on the platform to dock it and use the platform with an empty hand to take it back. The lights on its front show the charge, and a broken platform drops the docked gun."
 }

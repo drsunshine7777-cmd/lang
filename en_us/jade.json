@@ -451,5 +451,7 @@
   "jade.scp_unleashed.patrol_manager.issued": "Orders issued: %s",
   "jade.scp_unleashed.patrol_manager.owner": "Owner: %s",
   "config.jade.plugin_scp_unleashed.patrol_guard": "Patrol Guard",
-  "config.jade.plugin_scp_unleashed.patrol_manager": "Patrol Manager"
+  "config.jade.plugin_scp_unleashed.patrol_manager": "Patrol Manager",
+  "jade.scp_unleashed.micro_charging_platform.charge": "Micro H.I.D. %s%%",
+  "config.jade.plugin_scp_unleashed.micro_charging_platform": "SCP Micro Charging Platform"
 }

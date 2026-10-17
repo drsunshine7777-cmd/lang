@@ -1483,5 +1483,14 @@
   "block.scp_unleashed.patrol_node": "Patrol Node",
   "block.scp_unleashed.patrol_node.tooltip": "A floor marker for guard patrol routes. Link it to a Patrol Manager.",
   "block.scp_unleashed.patrol_manager": "Patrol Manager",
-  "block.scp_unleashed.patrol_manager.tooltip": "Plans a patrol route and its rules of engagement, then writes Patrol Orders."
+  "block.scp_unleashed.patrol_manager.tooltip": "Plans a patrol route and its rules of engagement, then writes Patrol Orders.",
+  "block.scp_unleashed.micro_charging_platform": "Micro Charging Platform",
+  "block.scp_unleashed.micro_charging_platform.tooltip": "A powered dock that recharges a Micro H.I.D.",
+  "block.scp_unleashed.micro_charging_platform.detail.rate": "Draws %s SP/t while it charges, an empty Micro H.I.D. fills in about %s seconds",
+  "block.scp_unleashed.micro_charging_platform.detail.dock": "Use a Micro H.I.D. on it to dock it, use it with an empty hand to take it back",
+  "block.scp_unleashed.micro_charging_platform.detail.wiring": "Power it through an outlet on its back",
+  "block.scp_unleashed.micro_charging_platform.status.empty": "Empty",
+  "block.scp_unleashed.micro_charging_platform.status.unpowered": "No power",
+  "block.scp_unleashed.micro_charging_platform.status.charging": "Charging",
+  "block.scp_unleashed.micro_charging_platform.status.full": "Fully charged"
 }

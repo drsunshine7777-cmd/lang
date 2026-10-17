@@ -429,5 +429,11 @@
   "raid.scp_unleashed.chaos_insurgency.stolen": "Insurgents have seized %3$s!",
   "raid.scp_unleashed.chaos_insurgency.extraction": "An insurgent radios for pickup to the %2$s.",
   "raid.scp_unleashed.chaos_insurgency.carried_off": "The helicopter climbs away with %3$s.",
-  "raid.scp_unleashed.chaos_insurgency.dropped": "%3$s falls from an insurgent's grip."
+  "raid.scp_unleashed.chaos_insurgency.dropped": "%3$s falls from an insurgent's grip.",
+  "message.scp_unleashed.micro_hid.empty": "The Micro H.I.D. is out of charge",
+  "message.scp_unleashed.micro_hid.drained": "The Micro H.I.D. ran out of charge",
+  "message.scp_unleashed.micro_hid.hold": "Hold %s to fire the Micro H.I.D.",
+  "death.attack.scp_unleashed.micro_hid": "%1$s was struck down by %2$s's Micro H.I.D.",
+  "death.attack.scp_unleashed.micro_hid.item": "%1$s was struck down by %2$s using %3$s",
+  "death.attack.scp_unleashed.micro_hid.player": "%1$s was caught in a Micro H.I.D. beam whilst fighting %2$s"
 }

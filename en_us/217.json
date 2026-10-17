@@ -36,6 +36,14 @@
           "SCP-217 was not recovered. It was handed to a reader of this file by an individual in Foundation dress, the same individual described in the files of other objects.",
           "Asked what was in the vial, the individual checked a pocket watch and said there was still time. %rMeaning unclear.%r See field notes."
         ]
+      },
+      {
+        "title": "Addendum 217-3: Refined Sample",
+        "text": [
+          "A second sample has been entered under this file. It reads as SCP-217 in every assay but one, and the analyzer gives it a line of its own: SCP-217-P. The oil has a fine brass sheen. Where the sample came from is not recorded.",
+          "Subjects exposed to SCP-217-P grow the same fittings at the same pace. They do not stiffen and they do not slow. They grow quicker and stronger instead, and in the final stage the ticking settles into perfect time and stays there.",
+          "One such subject reports being able to hear the room: every creature within a long stone's throw, walls or no walls. %rRequests to keep the subject on staff are under review.%r"
+        ]
       }
     ]
   },
@@ -64,5 +72,19 @@
   "subtitles.scp_unleashed.scp217_grind": "Gears grind",
   "subtitles.scp_unleashed.scp217_step": "Metal footsteps clank",
   "subtitles.scp_unleashed.scp217_shift": "Something clunks into place",
-  "subtitles.scp_unleashed.scp217_wind_down": "Clockwork winds down"
+  "subtitles.scp_unleashed.scp217_wind_down": "Clockwork winds down",
+  "labware.scp_unleashed.agent.scp217_perfect": "SCP-217-P",
+  "jei.scp_unleashed.info.vial.scp217_perfect.1": "A sealed sample of SCP-217-P: the same thin oil as SCP-217, with a fine brass sheen that catches the light. While the seal holds it is completely inert.",
+  "jei.scp_unleashed.info.vial.scp217_perfect.2": "An open sample reaches anyone within %1$s blocks with a clear line of sight. Solid blocks stop it. A gas mask or hood alone is not enough: only a complete hazmat suit keeps it out.",
+  "jei.scp_unleashed.info.vial.scp217_perfect.3": "The fittings, cogs and springs come on just as they do with SCP-217, but this clockwork runs true. Those it reaches only grow quicker and stronger, and nothing in it ever winds down. Only a swab read in an analyzer tells the two apart.",
+  "jei.scp_unleashed.info.vial.scp217_perfect.4": "Players and D-Class can be affected. The affected never pass it on: only open samples spread it. Late in its course, pressing %2$s sends a pulse through the clockwork that finds every creature nearby, even through walls.",
+  "jade.scp_unleashed.scp217.perfect": "Ticking in perfect time",
+  "message.scp_unleashed.scp217.pulse_awake": "Your clockwork has settled into perfect time. Press %s to send out a pulse.",
+  "message.scp_unleashed.scp217.pulse_sent": "Creatures found: %s",
+  "message.scp_unleashed.scp217.pulse_cooling": "Still rewinding: %s s",
+  "commands.scp_unleashed.scp217.perfect.success": "%s now carries SCP-217-P",
+  "commands.scp_unleashed.scp217.perfect.failed": "%s already carries SCP-217-P or cannot carry it",
+  "commands.scp_unleashed.scp217.query.perfect": "%s carries SCP-217-P: stage %s of %s, holding steady",
+  "subtitles.scp_unleashed.scp217_pulse": "Clockwork chimes",
+  "subtitles.scp_unleashed.scp217_culture": "Culture shimmers"
 }

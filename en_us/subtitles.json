@@ -468,5 +468,13 @@
   "subtitles.scp_unleashed.serpents_hand_seal_sink": "Someone sinks into a seal",
   "subtitles.scp_unleashed.serpents_hand_seal_close": "Seal closes",
   "subtitles.scp_unleashed.serpents_hand_warning": "Distant chime",
-  "subtitles.scp_unleashed.chaos_insurgency_force": "Locker forced"
+  "subtitles.scp_unleashed.chaos_insurgency_force": "Locker forced",
+  "subtitles.scp_unleashed.micro_hid_spin": "Micro H.I.D. spins up",
+  "subtitles.scp_unleashed.micro_hid_ignite": "Micro H.I.D. discharges",
+  "subtitles.scp_unleashed.micro_hid_fire": "Micro H.I.D. crackles",
+  "subtitles.scp_unleashed.micro_hid_wind_down": "Micro H.I.D. winds down",
+  "subtitles.scp_unleashed.micro_charging_platform_dock": "Micro H.I.D. docks",
+  "subtitles.scp_unleashed.micro_charging_platform_undock": "Micro H.I.D. undocks",
+  "subtitles.scp_unleashed.micro_charging_platform_hum": "Charging platform hums",
+  "subtitles.scp_unleashed.micro_charging_platform_full": "Charging platform chimes"
 }

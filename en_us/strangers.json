@@ -354,5 +354,8 @@
   "notice.scp_unleashed.stranger.scp079_hobbyist.other": "An eager stranger is watching %s",
   "gui.scp_unleashed.stranger.plate.scp224_grandfather": "Passing It On",
   "notice.scp_unleashed.stranger.scp224_grandfather": "A kindly old stranger is watching you",
-  "notice.scp_unleashed.stranger.scp224_grandfather.other": "A kindly old stranger is watching %s"
+  "notice.scp_unleashed.stranger.scp224_grandfather.other": "A kindly old stranger is watching %s",
+  "discord.scp_unleashed.stranger.appeared": "%1$s appeared to %2$s",
+  "discord.scp_unleashed.stranger.delivered": "%1$s handed %2$s a delivery",
+  "discord.scp_unleashed.stranger.left": "%1$s left %2$s"
 }

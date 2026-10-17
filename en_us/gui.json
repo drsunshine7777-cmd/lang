@@ -598,7 +598,7 @@
   "gui.scp_unleashed.personnel_file.status.unknown": "Unknown",
   "gui.scp_unleashed.personnel_file.notes": "%s %s",
   "gui.scp_unleashed.personnel_file.scores": "IQ %s  ATHLETIC %s (%s)",
-  "key.scp_unleashed.tool_ability": "Tool Ability",
+  "key.scp_unleashed.tool_ability": "Ability 1",
   "hud.scp_unleashed.ultralaser.priming": "PRIMING",
   "hud.scp_unleashed.ultralaser.count": "COUNTDOWN",
   "hud.scp_unleashed.ultralaser.venting": "VENTING",
@@ -1533,5 +1533,8 @@
   "gui.scp_unleashed.patrol_manager.allow.hint": "Add the name or entity type to the spared list",
   "gui.scp_unleashed.patrol_manager.deny.hint": "Add the name or entity type as a threat",
   "gui.scp_unleashed.patrol_manager.owner.hint": "The owner is never engaged",
-  "gui.scp_unleashed.dclass_manager.status_patrol": "On patrol"
+  "gui.scp_unleashed.dclass_manager.status_patrol": "On patrol",
+  "hud.scp_unleashed.micro_hid.spinning": "SPINNING UP %s%%",
+  "hud.scp_unleashed.micro_hid.firing": "FIRING",
+  "hud.scp_unleashed.micro_hid.empty": "NO CHARGE"
 }
