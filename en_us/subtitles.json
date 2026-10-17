@@ -476,5 +476,6 @@
   "subtitles.scp_unleashed.micro_charging_platform_dock": "Micro H.I.D. docks",
   "subtitles.scp_unleashed.micro_charging_platform_undock": "Micro H.I.D. undocks",
   "subtitles.scp_unleashed.micro_charging_platform_hum": "Charging platform hums",
-  "subtitles.scp_unleashed.micro_charging_platform_full": "Charging platform chimes"
+  "subtitles.scp_unleashed.micro_charging_platform_full": "Charging platform chimes",
+  "subtitles.scp_unleashed.industrial_turbine_hum": "Industrial turbine drones"
 }

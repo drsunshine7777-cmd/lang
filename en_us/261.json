@@ -32,7 +32,7 @@
       },
       {
         "title": "Addendum 261-2: Recovery",
-        "text": "SCP-261 has no recovery record. It was found humming in a corridor close to a reader of this file, shortly after the file was opened. See field notes."
+        "text": "SCP-261 has no recovery record. It was handed to a reader of this file by the individual in Foundation dress described in the files of other objects, still humming. See field notes."
       }
     ]
   },
@@ -64,7 +64,7 @@
   "commands.scp_unleashed.scp261.arrive": "SCP-261 appeared at %s facing %s",
   "commands.scp_unleashed.scp261.arrive.failed": "No room for SCP-261 nearby",
   "commands.scp_unleashed.scp261.pals": "Snack pals nearby: %s of %s",
-  "archive.scp_unleashed.notes.scp261.0": "It turns up close to whoever reads this file.",
+  "archive.scp_unleashed.notes.scp261.0": "The courier brings the vending machine by hand.",
   "archive.scp_unleashed.notes.scp261.1": "Bring change. Iron or gold.",
   "death.attack.scp_unleashed.scp261_static": "%1$s was zapped by a static spark",
   "death.attack.scp_unleashed.scp261_static.player": "%1$s was zapped by %2$s's static soda",

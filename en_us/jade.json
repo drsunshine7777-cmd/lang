@@ -453,5 +453,8 @@
   "config.jade.plugin_scp_unleashed.patrol_guard": "Patrol Guard",
   "config.jade.plugin_scp_unleashed.patrol_manager": "Patrol Manager",
   "jade.scp_unleashed.micro_charging_platform.charge": "Micro H.I.D. %s%%",
-  "config.jade.plugin_scp_unleashed.micro_charging_platform": "SCP Micro Charging Platform"
+  "config.jade.plugin_scp_unleashed.micro_charging_platform": "SCP Micro Charging Platform",
+  "config.jade.plugin_scp_unleashed.industrial_turbine": "SCP Industrial Turbine",
+  "jade.scp_unleashed.industrial_turbine.speed": "Rotor speed: %s%%",
+  "jade.scp_unleashed.industrial_turbine.inlets": "Inlet pressure: %s%% / %s%% / %s%%"
 }

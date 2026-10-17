@@ -329,6 +329,41 @@
       "2": "Six slices at a time. Close the lid, lift it again, and the pizza is whole.",
       "3": "Don't ask me what kind it is. I've never had a straight answer to that.",
       "4": "Keep it somewhere cool and dry. It won't make any difference, but it keeps the paperwork tidy."
+    },
+    "scp256": [
+      "You read the typewriter file. Here. It's already loaded, so don't go looking for paper.",
+      "Press a key and it types back. Nobody sits at it. Nobody ever has.",
+      "It finishes one message before it starts the next. Let it finish.",
+      "Give it a desk and keep it the right way up. Don't cover it, and don't set it face down.",
+      "If the bell rings in the night, that's only it keeping watch. Go back to sleep."
+    ],
+    "scp261": [
+      "You read the vending machine file. Here it is. Don't ask how it fit in the van.",
+      "It takes nuggets. Iron or gold. It won't take anything else, so don't try.",
+      "Nobody can read the labels. Whatever drops out, eat it somewhere with plenty of room.",
+      "Some snacks are over in a moment. Some take their time. Mind where you were standing.",
+      "It hums when it's ready. Nobody knows what it's ready for."
+    ],
+    "scp294": [
+      "You read the drinks machine file. Here. Mind the keyboard, it's older than both of us.",
+      "Type a drink and it pours it. Any drink at all. That's the trouble with it.",
+      "One iron nugget a cup. No credit, no refunds, and no arguing with it.",
+      "Think before you type. Some cups are better smelled than drunk.",
+      "Every order gets written down somewhere. Keep yours short, and keep them boring."
+    ],
+    "scp465": {
+      "0": "Surprise, surprise! Dr. Wondertainment has a FREE gift for the guest of honour, and the guest of honour is YOU!",
+      "1": "Introducing Party in a Box! Just add four walls and a ceiling, lift the lid, and the party comes to you! Streamers! Snacks! Music! Friends!",
+      "2": "Everyone in the room when the lid comes off goes straight onto the guest list! Dr. Wondertainment always says it is polite to arrive on time!",
+      "3": "When the fun is over, just close the lid! Everything goes back the way you found it. No mess, no fuss, no cleaning up!",
+      "4": "Dr. Wondertainment thanks you for your custom! Party responsibly, party often, and always, always RSVP!"
+    },
+    "scp472": {
+      "0": "You read the file. This is the stone. It was warm before I ever picked it up.",
+      "1": "Hear that? Don't answer. Nobody ever likes the answer.",
+      "2": "Set it down somewhere nobody walks past. Somewhere far. Then walk away from it, and keep walking.",
+      "3": "Wrapped up like this it keeps quiet. It's patient. It can afford to be.",
+      "4": "If you start thinking it's hungry, you're already standing too close."
     }
   },
   "entity.scp_unleashed.stranger_figure": "Mysterious Stranger",

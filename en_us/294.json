@@ -33,7 +33,7 @@
       },
       {
         "title": "Addendum 294-2: Recovery",
-        "text": "SCP-294 has no recovery record. It was found humming in a corridor close to a reader of this file, shortly after the file was opened. See field notes."
+        "text": "SCP-294 has no recovery record. It was handed to a reader of this file by the individual in Foundation dress described in the files of other objects. Asked how it had been carried, the individual did not answer. See field notes."
       }
     ]
   },
@@ -96,7 +96,7 @@
   "commands.scp_unleashed.scp294.dispense.refused": "OUT OF RANGE: %s",
   "commands.scp_unleashed.scp294.arrive": "SCP-294 appeared at %s facing %s",
   "commands.scp_unleashed.scp294.arrive.failed": "No room for SCP-294 nearby",
-  "archive.scp_unleashed.notes.scp294.0": "It turns up close to whoever reads this file.",
+  "archive.scp_unleashed.notes.scp294.0": "The courier brings the drinks machine by hand.",
   "archive.scp_unleashed.notes.scp294.1": "Bring exact change: one iron nugget.",
   "death.attack.scp_unleashed.scp294_drink": "%1$s drank something they should not have",
   "death.attack.scp_unleashed.scp294_ascended": "%1$s ascended",

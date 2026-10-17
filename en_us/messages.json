@@ -435,5 +435,6 @@
   "message.scp_unleashed.micro_hid.hold": "Hold %s to fire the Micro H.I.D.",
   "death.attack.scp_unleashed.micro_hid": "%1$s was struck down by %2$s's Micro H.I.D.",
   "death.attack.scp_unleashed.micro_hid.item": "%1$s was struck down by %2$s using %3$s",
-  "death.attack.scp_unleashed.micro_hid.player": "%1$s was caught in a Micro H.I.D. beam whilst fighting %2$s"
+  "death.attack.scp_unleashed.micro_hid.player": "%1$s was caught in a Micro H.I.D. beam whilst fighting %2$s",
+  "message.scp_unleashed.industrial_turbine.status": "Industrial turbine: %s, %s SP/t, rotor at %s%%, inlets %s%% / %s%% / %s%%"
 }

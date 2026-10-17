@@ -42,7 +42,7 @@
       },
       {
         "title": "Addendum 256-1: Recovery",
-        "text": "SCP-256 was never recovered. It was found on a desk in an occupied office, already typing, shortly after a member of staff had read its file. Nobody had carried it in. See field notes."
+        "text": "SCP-256 was never recovered. It was handed to a reader of this file by the individual in Foundation dress described in the files of other objects. It was already typing. See field notes."
       }
     ]
   },
@@ -70,7 +70,7 @@
   "subtitles.scp_unleashed.scp256_ding": "Typewriter bell dings",
   "subtitles.scp_unleashed.scp256_return": "Typewriter carriage returns",
   "subtitles.scp_unleashed.scp256_paper": "Typewriter paper rolls",
-  "archive.scp_unleashed.notes.scp256.0": "Nobody brings this one in. It turns up on a desk near the reader.",
+  "archive.scp_unleashed.notes.scp256.0": "The courier brings the typewriter by hand.",
   "archive.scp_unleashed.notes.scp256.1": "Listen for a bell where nobody is typing.",
   "dialogue.scp_unleashed.scp256.light_on": "hello? is the light on out there. it is never on in here",
   "dialogue.scp_unleashed.scp256.breathing": "i can hear you breathing. please keep breathing near me",
